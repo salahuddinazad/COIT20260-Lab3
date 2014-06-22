@@ -249,8 +249,4 @@ app.get('/watchTwitter', function (req, res) {
 app.listen(port);
 console.log("Server listening on port " + port);
 
-<<<<<<< HEAD
-// nothing, test for local git aa
-=======
-// nothing, test for local gits
->>>>>>> master
+// nothing, test for local git
