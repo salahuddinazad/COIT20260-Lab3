@@ -7,7 +7,7 @@ var twitter = require('ntwitter');
 // make Stream globally visible so we can clean up better
 var stream;
 
-var DEFAULT_TOPIC = "Justin Bieber";
+var DEFAULT_TOPIC = "IBM";
 
 // defensiveness against errors parsing request bodies...
 process.on('uncaughtException', function (err) {
