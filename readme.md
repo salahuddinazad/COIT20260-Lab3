@@ -1,5 +1,7 @@
 ## Simple Sentiment Analysis application
 
+Our sample project analyzes Twitter users' collective sentiment about a search phrase.
+
 ![Ambivalent Smiley](public/images/content.png "Ambivalent Smiley")
 
 Sample application demonstrating how to build a sentiment analysis app usind Node.js and a couple modules.  
