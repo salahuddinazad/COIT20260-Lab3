@@ -7,7 +7,7 @@ var twitter = require('ntwitter');
 // make Stream globally visible so we can clean up better
 var stream;
 
-var DEFAULT_TOPIC = "IBM";
+var DEFAULT_TOPIC = "COVID19";
 
 // defensiveness against errors parsing request bodies...
 process.on('uncaughtException', function (err) {
